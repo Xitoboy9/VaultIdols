@@ -1,0 +1,14 @@
+{
+  "parent": "the_vault:item/skin_omni",
+  "textures": {
+    "0": "the_vault:item/idol_omniscient"
+  },
+  "gui_light": "front",
+  "display": {
+    "gui":{
+      "rotation": [0, -200, 0],
+      "translation": [-2, -3, 0],
+      "scale":[0.4, 0.4, 0.4]
+    }
+  }
+}
